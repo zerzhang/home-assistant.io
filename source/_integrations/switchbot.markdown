@@ -256,8 +256,9 @@ cover:
 
 #### Roller Shade
 The Roller Shade is exposed as a cover entity with control of the position only:
+
 | position | Roller Shade state |
-| ---------| ------------------ |
+| -------- | ------------------ |
 | <=20%    | Open               |
 | >20%     | Close              |
 
